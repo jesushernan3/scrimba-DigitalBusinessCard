@@ -1,3 +1,7 @@
 export default function Header() {
-  return <h1>Digital Businees Card</h1>;
+  return (
+    <header>
+      <img src="/src/assets/images/foto-carnet.png" alt="fotocarne" />
+    </header>
+  );
 }
